@@ -1,0 +1,6 @@
+text=auto
+
+*.rb diff=ruby
+
+.*  text eol=lf
+.html   text eol=lf
