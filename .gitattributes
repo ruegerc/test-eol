@@ -2,5 +2,5 @@ text=auto
 
 *.rb diff=ruby
 
-.*  text eol=lf
+#.*  text eol=lf
 .html   text eol=lf
